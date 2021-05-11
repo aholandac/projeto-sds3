@@ -7,7 +7,7 @@ function App() {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary">Olá Mundo</h1>
+        <h1 className="text-primary"></h1>
 
         <DataTable />
       </div>
